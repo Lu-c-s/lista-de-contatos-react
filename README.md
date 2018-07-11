@@ -1,18 +1,18 @@
-#Lista de Contatos
+### Lista de Contatos
 
-#Running the app
-Clonar o repositorio do github:
+## Rodando o aplicativo :
+# 1 Clonar o repositorio do github:
 
-$ git clone 
+$ git clone https://github.com/Lu-c-s/lista-de-contatos-react
 
-Instalar as depêndencias:
+# 2 Instalar as depêndencias:
 
 $ npm install
 
-Iniciar o servidor:
+# 3 Iniciar o servidor:
 
 $ npm start
 
-Para rodar tests:
+# 4 Para rodar testes:
 
 $ npm test
