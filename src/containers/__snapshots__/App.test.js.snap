@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact renders contact card correcly 1`] = `
+<div
+  className="contact-root-284"
+  onClick={[Function]}
+>
+  <div
+    className="MuiButtonBase-root-295 MuiListItem-root-285 MuiListItem-default-288 MuiListItem-gutters-292 MuiListItem-button-293"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    role="button"
+    tabIndex="0"
+  >
+    <div
+      className="MuiAvatar-root-298"
+    >
+      <img
+        alt={undefined}
+        className="MuiAvatar-img-300"
+        sizes={undefined}
+        src="https://s3.amazonaws.com/uifaces/faces/twitter/kevinoh/128.jpg"
+        srcSet={undefined}
+      />
+    </div>
+    <div
+      className="MuiListItemText-root-301"
+    >
+      <span
+        className="MuiTypography-root-307 MuiTypography-subheading-314 MuiListItemText-primary-304"
+      >
+        Liana Crooks
+      </span>
+      <p
+        className="MuiTypography-root-307 MuiTypography-body1-316 MuiTypography-colorTextSecondary-329 MuiListItemText-secondary-305"
+      >
+        Ledner, Johnson and Predovic
+      </p>
+    </div>
+    <span
+      className="MuiTouchRipple-root-331"
+    />
+  </div>
+</div>
+`;
+
+exports[`ContactInfo renders all contact info correctly 1`] = `
+<div>
+  <div
+    className="MuiPaper-root-156 MuiPaper-elevation1-159 MuiPaper-rounded-157 MuiCard-root-155 contactInfo-card-153"
+  >
+    <div
+      className="MuiCardContent-root-183"
+    >
+      <div
+        className="MuiGrid-container-184 MuiGrid-spacing-xs-24-207"
+      >
+        <div
+          className="MuiGrid-item-185 MuiGrid-grid-xs-12-223 MuiGrid-grid-sm-6-231"
+        >
+          <img
+            alt="Avatar"
+            className="contactInfo-img-154"
+            src="https://s3.amazonaws.com/uifaces/faces/twitter/kevinoh/128.jpg"
+          />
+        </div>
+        <div
+          className="MuiGrid-item-185 MuiGrid-grid-xs-12-223 MuiGrid-grid-sm-6-231"
+        >
+          <h2>
+            Contact Details
+          </h2>
+          <hr
+            className="MuiDivider-root-280"
+          />
+          <h3>
+            General Information
+          </h3>
+          <h4>
+            Liana Crooks
+          </h4>
+          <h3>
+            Contact Information
+          </h3>
+          <h4>
+            Gerry_Hackett77@gmail.com
+          </h4>
+          <h4>
+            (895) 984-0132
+          </h4>
+          <h3>
+            Job
+          </h3>
+          <h4>
+            Investor Functionality Coordinator
+          </h4>
+          <h4>
+            Ledner, Johnson and Predovic
+          </h4>
+          <h3>
+            Address
+          </h3>
+          <h4>
+            Guinea-Bissau - New Devon
+          </h4>
+          <h4>
+            1520 Zemlak Cove
+          </h4>
+          <h4>
+            42586-7898
+          </h4>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
